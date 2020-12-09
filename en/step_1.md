@@ -2,7 +2,7 @@ In Scratch you can paint, edit or upload costumes for your sprites. During this 
 
 You can see if your sprite is off centre by looking at the small grey crosshair shown in the Paint editor. 
 
-![crosshair](images/crosshair.png){:width="300px"}
+![crosshair](images/crosshair.png){:width="200px"}
 
 If this is not at the centre of your costume you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume. 
 
