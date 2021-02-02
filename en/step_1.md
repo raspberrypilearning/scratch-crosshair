@@ -10,6 +10,6 @@ You can drag the highlighted costume so that the cross on the costume aligns wit
 
 ![Centre crosshair](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate round that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor.
+Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor.
 
 ![Rotation point](images/rotation-point.png){:width="500px"}
