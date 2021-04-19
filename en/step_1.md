@@ -4,7 +4,7 @@ Sprites rotate around their centre. You can see if your sprite is centred by loo
 
 If this is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume. 
 
-![The cross in the centre of the costume.](images/off-centre-crosshair.png){:width="500px"}
+![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
 
 You can drag the highlighted costume so that the cross on the costume aligns with the crosshair position.
 
@@ -12,4 +12,4 @@ You can drag the highlighted costume so that the cross on the costume aligns wit
 
 Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor.
 
-![A rotation point aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
