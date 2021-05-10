@@ -1,15 +1,15 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor.
+Sprites draaien rond hun middelpunt. Je kunt zien of je sprite gecentreerd is door naar het kleine grijze dradenkruis te kijken dat wordt weergegeven in de Teken-editor.
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![Het dradenkruis.](images/crosshair.png){:width="200px"}
 
-If this is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume.
+Als dit niet in het midden van je uiterlijk staat, kun je het **Selecteren** gereedschap gebruiken om het volledige uiterlijk te markeren. Er verschijnt dan een kruis in het midden van je gemarkeerde uiterlijk.
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![Het kruis in het midden van het uiterlijk is niet uitgelijnd met het dradenkruis.](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross on the costume aligns with the crosshair position.
+Je kunt het gemarkeerde uiterlijk slepen zodat het kruis op het uiterlijk op één lijn ligt met de positie van het dradenkruis.
 
-![The costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![Het uiterlijk uitgelijnd met het dradenkruis.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor.
+Af en toe wil je misschien een plek kiezen om te draaien om een punt dat niet het midden van het uiterlijk is. In dat geval kun je het door jou gekozen draaipunt voor het uiterlijk uitlijnen met het dradenkruis in de Teken-editor.
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![Een draaipunt aan de onderkant van het uiterlijk is uitgelijnd met het dradenkruis.](images/rotation-point.png){:width="500px"}
