@@ -1,15 +1,15 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor.
+تدور الكائنات حول مركزها. يمكنك معرفة ما إذا كان الكائن الخاص بك في المنتصف من خلال النظر إلى علامة التقاطع الرمادية الصغيرة الموضحة في محرر الرسم.
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![التقاطع.](images/crosshair.png){:width="200px"}
 
-If this is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume.
+إذا لم يكن هذا في وسط المظهر الخاص بالكائن، يمكنك استخدام **تحديد** لإختيار المظهر بالكامل. سيظهر بعد ذلك اشارة تقاطع في وسط المظهر الذي تم اختياره.
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![التقاطع الموجود في وسط المظهر لا يكون بمحاذاة مع اشارة التقاطع.](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross on the costume aligns with the crosshair position.
+يمكنك سحب المظهر الذي تم اختياره بحيث يتراصف التقاطع الموجود على المظهر مع موضع الصليب.
 
-![The costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![المظهر بمحاذاة مع التقاطع.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor.
+في بعض الأحيان، قد ترغب في اختيار نقطة للدوران حولها لا تكون مركز المظهر. في هذه الحالة، يمكنك محاذاة نقطة دوران المظهر التي اخترتها مع التقاطع في محرر الرسم.
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![نقطة الدوران في الجزء السفلي من الزي بمحاذاة مع التقاطع.](images/rotation-point.png){:width="500px"}
