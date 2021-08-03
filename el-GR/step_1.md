@@ -1,4 +1,4 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
+Τα αντικείμενα περιστρέφονται γύρω από το κέντρο τους. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
 
 ![The crosshair.](images/crosshair.png){:width="200px"}
 
