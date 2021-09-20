@@ -1,15 +1,15 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
+スプライトは真ん中を中心に回転します。 ペイントエディタに表示される小さな灰色の十字マークで、スプライトが中央に配置されているかどうかを確認できます。
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![十字マーク。](images/crosshair.png){:width="200px"}
 
-If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume:
+十字マークがコスチュームの中心にない場合は、**選択** ツールを使用してコスチューム全体を強調できます 。 ハイライトされたコスチュームの中央に十字が表示されます。
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![コスチュームの中央の十字が十字マークに一致しません。](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross in the costume aligns with the crosshair:
+ハイライトされたコスチュームをドラッグして、コスチュームの十字を十字マークに合わせることができます。
 
-![The cross in the costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![コスチュームの十字が十字マークに合っています。](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor:
+回転の中心をコスチュームの中心とは別の点にしたい場合があります。 その場合、ペイントエディタで、選択したコスチューム回転ポイントを十字マークに合わせることができます。
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![コスチュームの下部の回転ポイントが十字マークに合わせられます。](images/rotation-point.png){:width="500px"}
