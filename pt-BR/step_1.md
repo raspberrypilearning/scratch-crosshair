@@ -1,15 +1,15 @@
 Atores giram em torno de seu centro. Você pode ver se seu ator está centralizado ao olhar para a pequena cruz cinza mostrada no editor Paint:
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![A mira.](images/crosshair.png){:width="200px"}
 
-If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume:
+Se a mira não estiver no centro de sua fantasia, você pode usar a ferramenta **Selecionar** para destacar a fantasia. Uma mira aparecerá no centro da fantasia destacada:
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![A cruz no centro da fantasia não está alinhada com a mira.](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross in the costume aligns with the crosshair:
+Você pode arrastar a fantasia destacada até que a cruz na fantasia se alinhe com a mira:
 
-![The cross in the costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![A cruz na fantasia alinhada com a mira.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor:
+Ocasionalmente, você pode querer escolher um ponto para girar, que não seja o centro da fantasia. Nesse caso, você pode alinhar o ponto de rotação de sua fantasia escolhida com a mira no editor Paint:
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![Um ponto de rotação no fundo da fantasia está alinhado com a mira.](images/rotation-point.png){:width="500px"}
