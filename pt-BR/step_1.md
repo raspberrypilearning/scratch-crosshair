@@ -1,4 +1,4 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
+Atores giram em torno de seu centro. Você pode ver se seu ator está centralizado ao olhar para a pequena cruz cinza mostrada no editor Paint:
 
 ![The crosshair.](images/crosshair.png){:width="200px"}
 
