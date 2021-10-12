@@ -1,15 +1,15 @@
 Duszki obracają się wokół swojego środka. Możesz zobaczyć, czy twój duszek jest wyśrodkowany, patrząc na mały szary celownik widoczny w edytorze Paint:
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![Celownik.](images/crosshair.png){:width="200px"}
 
-If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. Na środku podświetlonego stroju pojawi się krzyżyk:
+Jeśli celownik nie znajduje się na środku kostiumu, możesz użyć narzędzia **Wybierz**, aby podświetlić cały kostium. Na środku podświetlonego stroju pojawi się krzyżyk:
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![Krzyżyk na środku kostiumu nie jest zrównany z celownikiem.](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross in the costume aligns with the crosshair:
+Możesz przeciągnąć podświetlony kostium tak, aby krzyżyk w kostiumie zrównał się z celownikiem:
 
-![The cross in the costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![Krzyżyk w kostiumie zrównany z celownikiem.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor:
+Czasami możesz zechcieć wybrać punkt do obracania, który nie jest środkiem kostiumu. W takim przypadku możesz zrównać wybrany punkt rotacji kostiumu z celownikiem w edytorze Paint:
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![Punkt obrotu na dole kostiumu jest zrównany z celownikiem.](images/rotation-point.png){:width="500px"}
