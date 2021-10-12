@@ -1,4 +1,4 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
+Duszki obracają się wokół swojego środka. Możesz zobaczyć, czy twój duszek jest wyśrodkowany, patrząc na mały szary celownik widoczny w edytorze Paint:
 
 ![The crosshair.](images/crosshair.png){:width="200px"}
 
