@@ -2,7 +2,7 @@ Duszki obracają się wokół swojego środka. Możesz zobaczyć, czy twój dusz
 
 ![The crosshair.](images/crosshair.png){:width="200px"}
 
-If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume:
+If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. Na środku podświetlonego stroju pojawi się krzyżyk:
 
 ![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
 
