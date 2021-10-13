@@ -1,15 +1,15 @@
-Los objetos giran alrededor de su centro. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
+Los objetos giran alrededor de su centro. Puedes ver si tu objeto está centrado mirando la pequeña cruz gris que se muestra en el editor de dibujo:
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![La mira.](images/crosshair.png){:width="200px"}
 
-If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume:
+Si la mira no está en el centro de tu disfraz, puedes usar la herramienta **Seleccionar** para resaltar el disfraz completo. A continuación, se mostrará una cruz en el centro del disfraz que acabas de resaltar:
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![La cruz en el centro del disfraz no está alineada con la mira.](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross in the costume aligns with the crosshair:
+Puedes arrastrar el disfraz resaltado para que la cruz del disfraz se alinee con la mira:
 
-![The cross in the costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![La cruz en el disfraz alineada con la mira.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor:
+De vez en cuando, es posible que desees elegir un punto para rotar que no sea el centro del disfraz. En ese caso, puedes alinear el punto que has elegido para rotar tu disfraz con la mira en el editor de dibujo:
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![Un punto de rotación en la parte inferior del disfraz está alineado con la mira.](images/rotation-point.png){:width="500px"}
