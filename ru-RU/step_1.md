@@ -1,15 +1,15 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
+Спрайты вращаются вокруг своего центра. Ты можешь увидеть, центрирован ли ваш спрайт, посмотрев на маленькое серое перекрестие, видимое в редакторе Paint:
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![Перекрестие.](images/crosshair.png){:width="200px"}
 
-If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume:
+Если перекрестие не находится в центре твоего костюма, ты можешь использовать инструмент **Выбрать**, чтобы выделить весь костюм. Затем в центре выделенного тобой костюма появится крест:
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![Крест в центре костюма не совмещен с перекрестием.](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross in the costume aligns with the crosshair:
+Ты можешь перетащить выделенный костюм так, чтобы крест на костюме совпал с перекрестием:
 
-![The cross in the costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![Крест в центре костюма совмещен с перекрестием.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor:
+Иногда ты можешь выбрать точку вращения, которая не является центром костюма. В таком случае ты можешь совместить выбранную точку вращения с перекрестием в редакторе Paint:
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![Точка вращения внизу костюма совмещена с перекрестием.](images/rotation-point.png){:width="500px"}
