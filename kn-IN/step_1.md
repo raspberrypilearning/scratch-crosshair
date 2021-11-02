@@ -1,15 +1,15 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
+ಸ್ಪ್ರೈಟ್ಸ್ ತಮ್ಮ ಮಧ್ಯದಲ್ಲಿ ಸುತ್ತ ಸುತ್ತುತ್ತವೆ. ಪೇಂಟ್ ಎಡಿಟರ್‌ನಲ್ಲಿ ತೋರಿಸಿರುವ ಸಣ್ಣ ಬೂದು ಬಣ್ಣದ ಕ್ರಾಸ್‌ಹೇರ್ ಅನ್ನು ನೋಡುವ ಮೂಲಕ ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್ ಮಧ್ಯದಲ್ಲಿ ಕೇಂದ್ರೀಕೃತವಾಗಿದೆಯೇ ಎಂದು ನೀವು ನೋಡಬಹುದು:
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![ಅಡ್ಡಹಸ್ತ.](images/crosshair.png){:width="200px"}
 
-If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume:
+crosshair ನಿಮ್ಮ ವಸ್ತ್ರದ ಮಧ್ಯದಲ್ಲಿಲ್ಲದಿದ್ದರೆ, ಪೂರ್ಣ ಉಡುಪನ್ನು ಹೈಲೈಟ್ ಮಾಡಲು ನೀವು **Select</0 ಟೂಲ್ ಅನ್ನು ಬಳಸಬಹುದು. ನಿಮ್ಮ ಹೈಲೈಟ್ ಮಾಡಿದ ವೇಷಭೂಷಣದ ಮಧ್ಯದಲ್ಲಿ ಒಂದು ಶಿಲುಬೆಯನ್ನು ತೋರಿಸುತ್ತದೆ: </p>
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![ವೇಷಭೂಷಣದ ಮಧ್ಯದಲ್ಲಿರುವ ಶಿಲುಬೆಯನ್ನು ಅಡ್ಡಹಾಯುವಿಗೆ ಜೋಡಿಸಲಾಗಿಲ್ಲ.](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross in the costume aligns with the crosshair:
+ನೀವು ಹೈಲೈಟ್ ಮಾಡಿದ ಉಡುಪನ್ನು ಎಳೆಯಬಹುದು ಇದರಿಂದ ವೇಷಭೂಷಣದಲ್ಲಿನ ಅಡ್ಡವು ಕ್ರಾಸ್‌ಹೇರ್‌ಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ:
 
-![The cross in the costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![ವೇಷಭೂಷಣದ ಮಧ್ಯದಲ್ಲಿರುವ ಶಿಲುಬೆಯನ್ನು ಅಡ್ಡಹಾಯುವಿಗೆ ಜೋಡಿಸಲಾಗಿಲ್ಲ.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor:
+ಸಾಂದರ್ಭಿಕವಾಗಿ, ವೇಷಭೂಷಣದ ಕೇಂದ್ರವಲ್ಲದ ಸುತ್ತಲೂ ತಿರುಗಲು ನೀವು ಒಂದು ಬಿಂದುವನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಬಯಸಬಹುದು. ಆ ಸಂದರ್ಭದಲ್ಲಿ, ನೀವು ಪೇಂಟ್ ಎಡಿಟರ್‌ನಲ್ಲಿ ಕ್ರಾಸ್‌ಹೇರ್‌ನೊಂದಿಗೆ ನೀವು ಆಯ್ಕೆ ಮಾಡಿದ ವೇಷಭೂಷಣ ಸರದಿ ಬಿಂದುವನ್ನು ಜೋಡಿಸಬಹುದು:
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![ವೇಷಭೂಷಣದ ಕೆಳಭಾಗದಲ್ಲಿರುವ ತಿರುಗುವಿಕೆಯ ಬಿಂದುವು ಕ್ರಾಸ್‌ಹೇರ್‌ನೊಂದಿಗೆ ಜೋಡಿಸಲ್ಪಟ್ಟಿದೆ.](images/rotation-point.png){:width="500px"}
