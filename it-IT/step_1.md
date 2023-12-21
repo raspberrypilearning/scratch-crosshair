@@ -1,15 +1,15 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
+Gli sprite ruotano intorno al loro centro. Puoi verificare se l'immagine è centrata osservando il piccolo mirino grigio visualizzato nell'editor di Paint:
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![Il mirino.](images/crosshair.png){:width="200px"}
 
-If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume:
+Se il mirino non è al centro del tuo costume, puoi utilizzare lo strumento **Seleziona** per evidenziare l'intero costume. Al centro del costume evidenziato apparirà una croce:
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![La croce al centro del costume non è allineata con il mirino.](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross in the costume aligns with the crosshair:
+Puoi trascinare il costume evidenziato in modo che la croce del costume si allinei con il mirino:
 
-![The cross in the costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![La croce del costume allineata al mirino.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor:
+A volte, dorai scegliere un punto intorno al quale ruotare che non sia il centro del costume. In questo caso, puoi allineare il punto di rotazione del costume scelto con il mirino nell'editor di Paint:
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![Un punto di rotazione nella parte inferiore del costume è allineato con il mirino.](images/rotation-point.png){:width="500px"}
