@@ -10,6 +10,6 @@ Puoi trascinare il costume evidenziato in modo che la croce del costume si allin
 
 ![La croce del costume allineata al mirino.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In questo caso, potrai allineare il punto di rotazione del costume scelto con il mirino nell'editor di Paint:
+A volte, dovrai scegliere un punto intorno al quale ruotare che non sia il centro del costume. In questo caso, potrai allineare il punto di rotazione del costume scelto con il mirino nell'editor di Paint:
 
 ![Un punto di rotazione nella parte inferiore del costume è allineato con il mirino.](images/rotation-point.png){:width="500px"}
