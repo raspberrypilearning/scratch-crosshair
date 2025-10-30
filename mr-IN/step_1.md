@@ -1,15 +1,15 @@
-Sprites rotate around their centre. You can see if your sprite is centred by looking at the small grey crosshair shown in the Paint editor:
+स्प्राइट्स त्यांच्या केंद्राभोवती फिरतात. पेंट एडिटरमध्ये दाखवलेले लहान राखाडी क्रॉसहेअर पाहून तुमचा स्प्राइट मध्यभागी आहे का ते पाहू शकता:
 
-![The crosshair.](images/crosshair.png){:width="200px"}
+![क्रॉसहेअर.](images/crosshair.png){:width="200px"}
 
-If the crosshair is not at the centre of your costume, you can use the **Select** tool to highlight the full costume. A cross will then show in the centre of your highlighted costume:
+जर क्रॉसहेअर तुमच्या पोशाखाच्या मध्यभागी नसेल, तर तुम्ही पूर्ण पोशाख हायलाइट करण्यासाठी **निवडा** टूल वापरू शकता. त्यानंतर तुमच्या हायलाइट केलेल्या पोशाखाच्या मध्यभागी एक क्रॉस दिसेल:
 
-![The cross in the centre of the costume is not aligned with the crosshair.](images/off-centre-crosshair.png){:width="500px"}
+![पोशाखाच्या मध्यभागी असलेला क्रॉस क्रॉसहेअरसह संरेखित केलेला नाही.](images/off-centre-crosshair.png){:width="500px"}
 
-You can drag the highlighted costume so that the cross in the costume aligns with the crosshair:
+तुम्ही हायलाइट केलेला पोशाख ड्रॅग करू शकता जेणेकरून पोशाखातील क्रॉस क्रॉसहेअरशी संरेखित होईल:
 
-![The cross in the costume aligned with the crosshair.](images/centre-crosshair.png){:width="500px"}
+![पोशाखातील क्रॉस क्रॉसहेअरसह संरेखित आहे.](images/centre-crosshair.png){:width="500px"}
 
-Occasionally, you might want to choose a point to rotate around that is not the centre of the costume. In that case, you can align your chosen costume rotation point with the crosshair in the Paint editor:
+कधीकधी, तुम्हाला भोवती फिरण्यासाठी एखादा बिंदू निवडायचा असेल जो पोशाखाचा केंद्रबिंदू नाही. अशा परिस्थितीत, तुम्ही पेंट एडिटरमधील क्रॉसहेअरसह तुमचा निवडलेला पोशाख रोटेशन पॉइंट संरेखित करू शकता:
 
-![A rotation point at the bottom of the costume is aligned with the crosshair.](images/rotation-point.png){:width="500px"}
+![पोशाखाच्या तळाशी एक रोटेशन पॉइंट क्रॉसहेअरसह संरेखित आहे.](images/rotation-point.png){:width="500px"}
